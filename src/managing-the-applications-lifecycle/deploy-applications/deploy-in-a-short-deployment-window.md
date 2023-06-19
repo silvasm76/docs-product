@@ -21,7 +21,7 @@ In cases there is a short window of time to deploy, it may not be possible to de
 
     1. Applications are compiled
     1. SQL scripts are generated
-    1. Binaries are uploaded to the front-ends in the destination environment, but there are no changes in the running versions
+    1. Applications, Modules and Binaries are uploaded to the front-ends in the destination environment, but there are no changes in the running versions
 
 1. **The second stage** is when changes become effective:  
 
