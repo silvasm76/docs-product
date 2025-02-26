@@ -99,6 +99,7 @@ delete from ossys_Parameter where name = 'OutSystems.IdentityService.LoginClient
 delete from ossys_Parameter where name = 'OutSystems.IdentityService.LoginClient.WebClientId';
 delete from ossys_Parameter where name = 'OutSystems.IdentityService.Scopes';
 delete from ossys_Parameter where name = 'OutSystems.IdentityService.ServiceUrl';
+delete from ossys_Parameter where name = 'OutSystems.SiteProperties.EncryptionKey';
 ```
 
 #### Clean up the configuration of mobile apps
